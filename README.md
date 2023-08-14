@@ -5,7 +5,7 @@
 
 In this project, I have learned to build an HR Analytics Dashboard. Here's a snapshot of what it includes:
 
-During the development of this project, several steps were undertaken, including:
+**During the development of this project, several steps were undertaken, including:**
 🔸 Data Cleaning
 🔸 Data Processing
 🔸 Data Analysis
